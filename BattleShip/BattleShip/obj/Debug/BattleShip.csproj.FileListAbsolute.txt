@@ -1,0 +1,14 @@
+C:\Users\Dax\source\repos\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Dax\source\repos\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Dax\source\repos\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Dax\source\repos\BattleShip\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\Dax\source\repos\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\Dax\source\repos\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Dax\source\repos\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\Dax\Downloads\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Dax\Downloads\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Dax\Downloads\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Dax\Downloads\BattleShip\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\Dax\Downloads\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\Dax\Downloads\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Dax\Downloads\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
